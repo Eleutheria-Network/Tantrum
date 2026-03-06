@@ -1,0 +1,14 @@
+name: Tantrum
+version: 0.0.1-SNAPSHOT
+main: me.autism.Tantrum
+api-version: '1.21'
+author: playstation451
+commands:
+  register:
+    description: Register your account
+  login:
+    description: Login to your account
+  resetpass:
+    description: Reset your password
+  password:
+    description: Admin password commands
